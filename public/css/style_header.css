@@ -1,0 +1,21 @@
+.top_header .img-fluid
+{
+    height: 50%;
+}
+.top_header {
+    margin-bottom: -45px;
+}
+.slidetext {
+    font-size: 2em;
+    padding-top: 20px;
+}
+.buttonClick {
+    padding-top: 10px;
+    font-size: 1.5em;
+    text-align: right;
+}
+.buttonClick a {
+    color: #000000;
+    text-decoration: none;
+    margin-left: 20px;
+}
